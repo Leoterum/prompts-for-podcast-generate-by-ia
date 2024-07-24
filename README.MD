@@ -42,6 +42,18 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
+## ✨ Escute meu Podcast AI
+
+<p align="center">
+<img 
+    src="./assets/CanosDoReino-Tux.webp"
+    width="300"
+    height="400"
+/>
+</p>
+
+[Podcast AI Canos do Reino](https://github.com/Leoterum/prompts-for-podcast-generate-by-ia/blob/main/output/CanosDoReino-EP1.mp3)
+
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
